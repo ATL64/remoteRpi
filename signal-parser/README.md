@@ -40,7 +40,7 @@ and any number of signals detected.
 
 To run the script, first save the above output to a text file and then use the path as argument:
 
-`python3 signal-parser.py /Users/frosterchosky/Documents/Things/useful_commands`
+`python3 signal-parser.py /Users/Documents/Things/`
 
 
 
