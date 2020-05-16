@@ -1,5 +1,6 @@
 This repository contains scripts to record and send signals for 433Mhz radio frequency remote controls (will obviously not work with infrared remotes).  The docker version is to be run on the RaspberryPi with docker installed in it, and can only be used to SEND signals with a transmitter.  To READ signals, you need to simply install and run the scripts on the RPi itself.
 
+With this you can "hack" remote controls, i.e. decode their frequencies for specific commands, and then emit them using your RaspberryPi connected to a transmitter.
 
 Signals to test with my intertechno remote for home:
 
